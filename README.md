@@ -10,4 +10,9 @@ Mi CV puede ser descargado mediante el siguiente link
 
 [CV Actualizado ] (CV.zip)
 
+<p>
+  
+Se puede observar la traduccion del texto mediante el siguiente link
+  
+[Traduccion de texto] (Traduccion texto sobre energia renovable.zip)
   
