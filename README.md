@@ -8,6 +8,6 @@ Mi CV puede ser descargado mediante el siguiente link
 
 <p>
 
-[CV Actualizado ] (CV.zip)
+[CV Actualizado ] (https://juancue.github.io/CV-TyHM-1-2021/CV.zip)
 
   
