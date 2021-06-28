@@ -18,4 +18,5 @@ Se puede observar la traduccion del texto mediante el siguiente link
 <p>
   
   <a href="https://juancue.github.io/CV-TyHM-1-2021/Traducción texto sobre energías renovables.zip">Traduccion capitulo 10 (.zip)</a>
-  
+  <p>
+  <a href="https://juancue.github.io/CV-TyHM-1-2021/Traduccion_capitulo_10_CUEVAS_pdf">Traduccion capitulo 10 (.pdf)</a>
