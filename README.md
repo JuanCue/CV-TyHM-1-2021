@@ -9,12 +9,13 @@ Mi CV puede ser descargado mediante el siguiente link
 <p>
 
   <a href="https://juancue.github.io/CV-TyHM-1-2021/CV.zip">Actualizado Julio 2021 (.zip)</a>
-  <a href="https://juancue.github.io/CV-TyHM-1-2021/CV.zip">Actualizado Julio 2021 (.pdf)</a>
+  <p>
+  <a href="https://juancue.github.io/CV-TyHM-1-2021/CV-ACTUALIZADO.pdf">Actualizado Julio 2021 (.pdf)</a>
 <p>
   
 Se puede observar la traduccion del texto mediante el siguiente link
   
 <p>
   
-  <a href="https://juancue.github.io/CV-TyHM-1-2021/Traducción texto sobre energías renovables.zip">Traduccion capitulo 10</a>
+  <a href="https://juancue.github.io/CV-TyHM-1-2021/Traducción texto sobre energías renovables.zip">Traduccion capitulo 10 (.zip)</a>
   
